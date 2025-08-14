@@ -1,0 +1,89 @@
+{
+  "foods":[
+    {
+      "id": 1,
+      "category":"Restaurant Reviews",
+      "image":"http://localhost:4200/Food-Blog/assets/bella-cucina.jpg",
+      "description":"A Night Out at Bella Cucina",
+      "date":"August 7, 2025"
+    },
+     {
+      "id": 2,
+      "category":"Restaurant Reviews",
+      "image":"http://localhost:4200/Food-Blog/assets/RusticTable.jpg",
+      "description":"A Culinary Journey at The Rustic Table",
+      "date":"August 7, 2025"
+    },
+     {
+      "id": 3,
+      "category":"Restaurant Reviews",
+      "image":"http://localhost:4200/Food-Blog/assets/spice.jpg",
+      "description":"Gastronomic Delights at Spice Route",
+      "date":"August 7, 2025"
+    },
+     {
+      "id": 4,
+      "category":"Featured Recipes",
+      "image":"http://localhost:4200/Food-Blog/assets/quinoa salad.jpg",
+      "description":"Mediterranean Quinoa Salad",
+      "date":"August 7, 2025"
+    },
+     {
+      "id": 5,
+      "category":"Seasonal Favorites",
+      "image":"http://localhost:4200/Food-Blog/assets/stew.jpg",
+      "description":"Winter Comfort",
+      "date":"August 7, 2025"
+    },
+     {
+      "id": 6,
+      "category":"Featured Recipes",
+      "image":"http://localhost:4200/Food-Blog/assets/thai-basil-chicken.jpg",
+      "description":"Spicy Thai Basil Chicken",
+      "date":"August 7, 2025"
+    },
+     {
+      "id": 7,
+      "category":"Featured Recipes, latest articles",
+      "image":"http://localhost:4200/Food-Blog/assets/Essential-techniques.jpg",
+      "description":"5 Essential Cooking Techniques Every Home Chef Should Master",
+      "date":"August 7, 2025"
+    },
+     {
+      "id": 8,
+      "category":"Featured Recipes, latest articles",
+      "image":"http://localhost:4200/Food-Blog/assets/Gadgets.jpg",
+      "description":"gourmet kitchen gadgets you need",
+      "date":"August 7, 2025"
+    },
+     {
+      "id": 9,
+      "category":"Featured Recipes, latest articles",
+      "image":"http://localhost:4200/Food-Blog/assets/plant-based.jpg",
+      "description":"the rise of plant-Based eating ",
+      "date":"August 7, 2025"
+    },
+     {
+      "id": 10,
+      "category":"Seasonal Favorites",
+      "image":"http://localhost:4200/Food-Blog/assets/pumpkin-soup.jpg",
+      "description":"pumpkin-soup.jpg",
+      "date":"August 7, 2025"
+    },
+     {
+      "id": 11,
+      "category":"Seasonal Favorites",
+      "image":"http://localhost:4200/Food-Blog/assets/berry-salad.jpg",
+      "description":"summer berry salad",
+      "date":"August 7, 2025"
+    },
+     {
+      "id": 12,
+      "category":"Featured Recipes",
+      "image":"http://localhost:4200/Food-Blog/assets/chocolate-cookies.jpg",
+      "description":"classic chocolate chip cookies",
+      "date":"August 7, 2025"
+    }
+
+  ]
+}
